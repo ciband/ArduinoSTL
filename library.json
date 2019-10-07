@@ -1,0 +1,17 @@
+{
+    "name": "avr_stl",
+    "keywords": "avr, stl",
+    "description": "This library includes important C++ functions, including cout and cin, printf and scanf. It also includes STL containers like vector and algorithm.",
+    "license": "LGPL",
+    "homepage": "https://github.com/ciband/avr_stl/master/README.md",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ciband/avr_stl.git"
+    },
+    "version": "1.2.0",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr"
+    ]
+  }
+  
